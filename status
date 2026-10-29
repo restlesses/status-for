@@ -1,6 +1,19 @@
 {
-  "maintenance": { "on": false },
-  "banner": { "on": false },
+  "maintenance": {
+    "on": false,
+    "title": "",
+    "title_en": "",
+    "text": "",
+    "text_en": "",
+    "until": ""
+  },
+  "banner": {
+    "on": true,
+    "level": "warn",
+    "id": "bmvth1th1",
+    "text": "СЕГОДНЯ С 18:00 ПО МСК ПРИЛОЖЕНИЕ БУДЕТ ПРИОСТОНОВЛЕННО",
+    "text_en": ""
+  },
   "tweaks": {},
   "grants": {
     "rassivegor@gmail.com": "owner"
